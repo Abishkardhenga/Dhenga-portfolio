@@ -2,11 +2,6 @@
 import React, { FormEvent } from "react"
 
 // Define types for the form data
-interface FormData {
-  name: string
-  email: string
-  message: string
-}
 
 const ContactForm: React.FC = () => {
   // Handle form submission
@@ -14,12 +9,6 @@ const ContactForm: React.FC = () => {
     e.preventDefault()
 
     const form = e.target as HTMLFormElement
-    const formData: FormData = {
-      name: (form.elements.namedItem("name") as HTMLInputElement).value,
-      email: (form.elements.namedItem("email") as HTMLInputElement).value,
-      message: (form.elements.namedItem("message") as HTMLTextAreaElement)
-        .value,
-    }
 
     // You can add logic here to handle the form data, e.g., sending it to an API or another action.
 
