@@ -14,7 +14,7 @@ const Projects = () => {
               className="overflow-hidden rounded-lg shadow-lg bg-[#2a2a32]"
             >
               <div className="p-0">
-                <div className="md:flex">
+                <div className="md:flex p-5">
                   <div className="flex-shrink-0">
                     <Image
                       src={project.image}

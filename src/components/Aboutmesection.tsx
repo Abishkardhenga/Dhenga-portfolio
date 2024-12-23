@@ -7,29 +7,16 @@ const Aboutmesection = () => {
         <h2 className="text-4xl font-extrabold text-white mb-8">About Me</h2>
         <div className="flex-row justify-center items-center">
           <p className="text-lg text-gray-300 leading-relaxed">
-            I’m Abishkar Dhenga, a passionate self-taught programmer with a deep
-            love for JavaScript. My journey has been focused on building
-            scalable and efficient web applications, where I’ve gained hands-on
-            experience with GraphQL and Docker. I’m always on the lookout for
-            new things to learn and grow as a developer. Recently, I’ve been
-            diving into React Native to develop Android and iOS applications,
-            and I’m excited by how much I’ve progressed. Beyond coding, I’m an
-            avid reader with a strong interest in politics, economics,
-            spirituality, and startups—areas that inspire me to think broadly
-            and deeply about the world. My curiosity extends beyond tech. I’m
-            enthusiastic about learning new skills like sales and marketing. In
-            fact, one of my proudest achievements was growing an Instagram page
-            from 0 to 5,000 followers in just four months—a result of applying
-            what I learned about engagement, consistency, and strategic growth.
-            I’m a firm believer in the power of discipline, consistency, and
-            hard work. In my downtime, I often find myself exploring new ideas
-            through books and articles, seeking inspiration, and collaborating
-            with like-minded, talented people from around the world. At present,
-            I’m working on a personal project—an app designed to solve some of
-            my own challenges. I believe the best solutions come from firsthand
-            experience, and this app reflects that philosophy. I’m always open
-            to new opportunities where I can apply my skills, grow further, and
-            make a meaningful impact.
+            Abishkar dhenga is a very dynamic person who have different skills
+            like social media marketing where in starting of his journey he
+            growth may Instagram account from 0 to 5k in 3 months and he used to
+            make thumnails for youtube . Despite about content creation and
+            social media marketing . He has good grapsh in programming . He had
+            more than 2 years of experience developing app and web app and he is
+            absolute problem solver .He don't consider himself as programmer
+            rather he considered himself as problem solver and he is always open
+            to learning new things and disccuss the ideas and open to build
+            great problem solving products .
           </p>
         </div>
       </div>
